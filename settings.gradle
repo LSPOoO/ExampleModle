@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ExampleModel"
 include ':app'
+include ':commonLibrary'
