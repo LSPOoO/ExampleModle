@@ -1,6 +1,8 @@
 plugins {
     alias(libs.plugins.android.library)
 }
+//apply plugin: 'com.github.dcendents.android-maven'
+//group='com.github.LSPOoO'
 
 android {
     namespace 'com.lspooo.common'
